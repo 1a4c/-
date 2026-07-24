@@ -1,0 +1,6 @@
+{
+  "name": "Solar Kinetic Central Motor",
+  "description": "Interactive physics simulation of a solar-lit central motor with tethered orbital bodies, phi-theta spherical dynamics, particle scatter queues, and gravitational growth kinetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
